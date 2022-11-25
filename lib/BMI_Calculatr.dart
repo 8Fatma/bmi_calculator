@@ -310,7 +310,8 @@ class _BmiScreenState extends State<BmiScreen> {
                   ),
                 ],
               ),
-          ),),
+            ),
+          ),
           Container(
             width: double.infinity,
             color: Colors.blue,
@@ -342,7 +343,7 @@ class _BmiScreenState extends State<BmiScreen> {
               color: Colors.teal,
             ),
           ),
-           ],
+        ],
       ),
     );
   }
